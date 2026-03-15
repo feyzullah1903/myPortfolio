@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\bin\Debug\net10.0\task.Program.cs.exe
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\bin\Debug\net10.0\task.Program.cs.deps.json
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\bin\Debug\net10.0\task.Program.cs.runtimeconfig.json
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\bin\Debug\net10.0\task.Program.cs.dll
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\bin\Debug\net10.0\task.Program.cs.pdb
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.AssemblyInfo.cs
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.dll
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\refint\task.Program.cs.dll
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.pdb
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\task.Program.cs.genruntimeconfig.cache
+C:\Users\user\Desktop\Projects\02-HeapStackRefOutArrayResize\task.Program.cs\obj\Debug\net10.0\ref\task.Program.cs.dll
